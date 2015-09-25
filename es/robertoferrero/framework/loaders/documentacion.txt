@@ -1,0 +1,7 @@
+﻿var 1.0 20/04/2009 11:09 (creado)
+
+Cargador.as (inteface)
+Es un inteface el cual implementan el resto de cargadores. Los cargadores comparten la emisión  
+
+CargadorDisplayObj.as
+Implementa Cargador.es y extiende MovieClip.
